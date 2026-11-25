@@ -2,7 +2,6 @@ public class Simulatoremath{
 	public int RadiceQuadrata(int x, int y){
 		
 	}
-	public nì
 }
 public class main{
 
